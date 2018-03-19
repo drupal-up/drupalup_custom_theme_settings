@@ -1,0 +1,5 @@
+name: Drupal Up
+description: Our custom Drupal Up theme
+type: theme
+core: 8.x
+base theme: bartik
